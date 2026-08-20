@@ -67,11 +67,6 @@ Response:
 ```json
 {"risk\\\_probability": 0.03, "risk\\\_label": "low\\\_risk"}
 ```
-
-## Live demo
-
-`<your Render URL here>`
-
 ## Load test
 
 100 requests against the local server:
